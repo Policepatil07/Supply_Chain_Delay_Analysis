@@ -1,0 +1,4 @@
+Download dataset with all columns
+save it as scda.csv file
+
+https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
